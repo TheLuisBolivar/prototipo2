@@ -3,7 +3,7 @@ const Search = ({ handleSearch }) => {
     <input
       id="myInput"
       type="text"
-      placeholder="¿A quién buscas?"
+      placeholder="¿Qué tema buscas?"
       onChange={(e) => handleSearch(e)}
     />
   );

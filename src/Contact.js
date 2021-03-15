@@ -1,6 +1,3 @@
-// const Contact = (props) => {
-//   const contacto = props.contacto;
-
 const Contact = ({ contacto }) => {
   let media;
 
@@ -32,8 +29,7 @@ const Contact = ({ contacto }) => {
                 href={`https://www.google.com/maps/place/${contacto.Ubicacion}`}
                 target="_blank"
                 rel="noreferrer"
-              >
-                {/* {<img src="img/map-pin.png" alt="map pin icon" />} */}
+              >                
                 {contacto.Ubicacion}
               </a>
             </div>

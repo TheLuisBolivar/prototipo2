@@ -9,10 +9,8 @@ function App() {
   const handleSearch = (e) => {
     const newContactos = !e.target.value
       ? contactos
-      : contactos.filter((contacto) =>
-          // contacto.Nickname.includes(
-          //   e.target.value)
-          contacto.Nickname.toLocaleLowerCase().includes(
+      : listaContactos.filter((contacto) =>          
+          contacto.Temas.join().toLocaleLowerCase().normalize('NFD').replace(/[\u0300-\u036f]/g, "").includes(
             e.target.value.toLocaleLowerCase()
           )
         );
