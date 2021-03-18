@@ -1,12 +1,9 @@
+import constants from "./Constants";
 const Contact = ({ contacto }) => {
   let media;
 
-  if (!contacto.Rating.length) {
-    media = "Nuevo";
-  } else {
-    media = contacto.Rating.reduce((a, b) => a + b, 0) / contacto.Rating.length;
-    media = `${media.toFixed(1)} (${Math.round((media / 5) * 100)}%)`;
-  }
+  console.log(contacto)
+  validateContactFields(contacto, media)
 
   return (
     <div className="contact">
@@ -29,7 +26,7 @@ const Contact = ({ contacto }) => {
                 href={`https://www.google.com/maps/place/${contacto.Ubicacion}`}
                 target="_blank"
                 rel="noreferrer"
-              >                
+              >
                 {contacto.Ubicacion}
               </a>
             </div>
@@ -61,5 +58,20 @@ const Contact = ({ contacto }) => {
     </div>
   );
 };
+
+function validateContactFields(contact, media) {
+  contact.foto = (contact.foto === "" || contact.foto == null) ?
+      constants.IMAGE_CONTACTOS_PRO : contact.foto;
+
+  contact.Contacto = (contact.Contacto === "" ||contact.Contacto == null) ?
+  constants.ADVISER_CONTACTOS_PRO : contact.Contacto;
+
+  if (!contact.Rating.length) {
+    media = "Nuevo";
+  } else {
+    media = contact.Rating.reduce((a, b) => a + b, 0) / contact.Rating.length;
+    media = `${media.toFixed(1)} (${Math.round((media / 5) * 100)}%)`;
+  }
+}
 
 export default Contact;
