@@ -77,6 +77,11 @@ img.icon {
   min-width: 40px;
 }
 
+.map > a {
+  color: white;
+  font-style: italic;
+}
+
 .skills {
   margin-top: 10px;
 }
@@ -130,6 +135,7 @@ button {
   padding: 0;
   margin-top: 10px;
   margin-bottom: 50px;
+  
 }
 
 /* Midium Screen */
@@ -138,7 +144,7 @@ button {
     display: grid;
     grid-template-columns: repeat(2, 1fr);
     grid-gap: 10px;
-    grid-auto-rows: 300px;
+    grid-auto-rows: minmax(300px, auto);
   }
 }
 
@@ -147,7 +153,7 @@ button {
   .contact-container {
     display: grid;
     grid-template-columns: repeat(3, 1fr);
-    grid-gap: 10px;
-    grid-auto-rows: 300px;
+    grid-gap: 20px;
+    grid-auto-rows: minmax(300px, auto);
   }
 }
