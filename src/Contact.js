@@ -20,11 +20,11 @@ const Contact = ({ contacto }) => {
         </div>
         <div className="col-8">
           <div className="row">
-            <div className="name-rating col-9">
+            <div className="name-rating col-8">
               <h3>{contacto.Nickname}</h3>
               <p className="rating">{media}</p>
             </div>
-            <div className="col-3 map">
+            <div className="col-4 map">
               <a
                 href={`https://www.google.com/maps/place/${contacto.Ubicacion}`}
                 target="_blank"

@@ -36,7 +36,7 @@
         "Temas": ["Cine y Televisión"],
         "Descripcion": "Soy una persona carismática, creativa quien posee la cualidad de generar buenas relaciones interpersonales. Me apasionan los retos que me conlleven a aprender y a mejorar, busco siempre ser una mejor versión de mí mismo cada día, soy apasionado y determinado en cumplir los sueños y metas que me planteo.  Manejo de programas como Premiere Pro, After effects, Photoshop, Audition, Pro tolos, Celtx, kit scenarist, Lightroom y BrightSing.",
         "Publico": "CONTACTO",
-        "Rating": [5, 3, 2],
+        "Rating": [],
         "foto": "/img/nicolas.jpg"
     },
     {
@@ -55,7 +55,7 @@
         ],
         "Descripcion": "Hola, soy un emprendedor apasionado por el well being, la inteligencia artificial, los negocios y la educación, te puedo asesorar en Metemáticas de colegio, Inglés, y organización personal",
         "Publico": "CONTACTO",
-        "Rating": [3, 5, 4, 4],
+        "Rating": [],
         "foto": "/img/joseph.jpg"
     },
     {
@@ -109,7 +109,7 @@
         ],
         "Descripcion": "Estilista profesional desde hace 15 años con amplia experiencia en mi  profesión. Tengo  La capacidad de transformar a las personas con un estilo creativo, moderno y único. Mi mayor virtud es dar lo mejor para satisfacer las necesidades de mis clientes. He trabajado durante un largo perido en canales de tv y peluquerías reconocidas de la ciudad con mucha disciplina y amor por mi trabajo.",
         "Publico": "ASISTENTE",
-        "Rating": [4, 5, 3],
+        "Rating": [],
         "foto": "/img/jesus.jpg"
     },
     {
@@ -213,7 +213,7 @@
         ],
         "Descripcion": "Hola soy andrés y te puedo enseñar a programar como generalista, .net medio-avanzado",
         "Publico": "ASISTENTE",
-        "Rating": [5, 3, 5],
+        "Rating": [],
         "foto": "/img/1-andres-castro.jpg"
     },
     {
@@ -345,14 +345,12 @@
         "Ubicacion": "La abadía, Envigado",
         "Temas": [
             "UX design",
-            "Recetas veganas",
-            "Fitness",
+            "Recetas veganas/japonesas",
             "CrossFit",
             "Yoga",
-            "Diseño ergonómico",
-            "Minimalismo"
+            "Diseño ergonómico"
         ],
-        "Descripcion": "Soy de Kióto,Japón, llevo 2 años viviendo en Colombia. Estoy aprendiendo diseño UX y Flutter.",
+        "Descripcion": "Una Japonesa que llevo 2 años viviendo en Colombia. Puedo comunicar en japones, ingles y español. Me gusta experimentar cosas nuevas. Soy UX designer en formación. Me gusta diseñar los productos que afectan la vida de las personas de manera positiva. Tambien me interesa el desarollo front-end y applicación.",
         "Publico": "CONTACTO",
         "Rating": [],
         "foto": "/img/miyu.jpg"
