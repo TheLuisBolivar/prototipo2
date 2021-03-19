@@ -1,13 +1,8 @@
 const Contact = ({ contacto }) => {
-  let media;
+  let media = "Nuevo";
 
-  if (!contacto.Rating.length) {
-    media = "Nuevo";
-  } else {
-    media = contacto.Rating.reduce((a, b) => a + b, 0) / contacto.Rating.length;
-    media = `${media.toFixed(1)} (${Math.round((media / 5) * 100)}%)`;
-  }
-
+  foto = "/public/img/"+ contacto.foto;
+  console.log(contacto.foto)
   return (
     <div className="contact">
       <div className="row align-items-center">
@@ -37,9 +32,7 @@ const Contact = ({ contacto }) => {
         </div>
       </div>
       <ul className="row_skills">
-        {contacto.Temas.map((tema) => (
-          <li key={tema}>{tema}</li>
-        ))}
+      {contacto.Temas}
       </ul>
 
       <div className="row_tooltip">
