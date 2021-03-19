@@ -1,332 +1,332 @@
 [
-  {
-    "id": 1,
-    "Nickname": "Luis",
-    "Contacto": 573203748687,
-    "Ubicacion": "Bogota, Colombia",
-    "Temas": "Filosofía estoica, Precalculo, Ciencias de la computación",
-    "Descripcion": "Hola soy Luis, si deseas un poco de conversación o incluso una asesoria, no dudes en escribirme, generalmente, estoy con disponibilidad de 8pm a 10 pm.",
-    "Publico": "CONTACTO",
-    "foto": "/img/Fernando.jpg"
-  },
-  {
-    "id": 2,
-    "Nickname": "Seneth",
-    "Contacto": 573203748687,
-    "Ubicacion": "Bolivar, Colombia",
-    "Temas": "Artes plasticas, Animación 3D",
-    "Descripcion": "Llevo 2 años como modeladora 3d y desarrolladora de ambientes 3d para videojuegos, trabajé 2 años en Kirvit ltd como desarrolladora de ambientes 3d para Prepard, Flier Simulator y Scanner, motores de simulación de vuelo y vehículos respectivamente.\nTambién hice mis practicas de animación 3d en la empresa Signos Studio de Zipaquirá, dónde me desempeñé como modeladora 3d.",
-    "Publico": "CONTACTO",
-    "foto": "/img/Seneth.jpg"
-  },
-  {
-    "id": 3,
-    "Nickname": "Nicolas",
-    "Contacto": 573203748687,
-    "Ubicacion": "Bogota, Colombia",
-    "Temas": "Cine y Television",
-    "Descripcion": "Soy una persona carismática, creativa quien posee la cualidad de generar buenas relaciones interpersonales. Me apasionan los retos que me conlleven a aprender y a mejorar, busco siempre ser una mejor versión de mí mismo cada día, soy apasionado y determinado en cumplir los sueños y metas que me planteo.  Manejo de programas como Premiere Pro, After effects, Photoshop, Audition, Pro tolos, Celtx, kit scenarist, Lightroom y BrightSing.",
-    "Publico": "CONTACTO",
-    "foto": "/img/nicolas.jpg"
-  },
-  {
-    "id": 4,
-    "Nickname": "Joseph",
-    "Contacto": 573203748687,
-    "Ubicacion": "La Abadia, Envigado",
-    "Temas": "IA, Inversiones, Crecimiento personal, CrossFit, Startups, Data Science, Emprendimiento",
-    "Descripcion": "Hola, soy un emprendedor apasionado por el well being, la inteligencia artificial, los negocios y la educacion, te puedo asesorar en Metematicas de colegio, Ingles, y organizacion personal",
-    "Publico": "CONTACTO",
-    "foto": "/img/joseph.jpg"
-  },
-  {
-    "id": 5,
-    "Nickname": "Mono",
-    "Contacto": 573203748687,
-    "Ubicacion": "Mazuren, Bogotá",
-    "Temas": "Trading, Criptomonedas, Crecimiento personal, Boxeo",
-    "Descripcion": "Hola me dicen el Mono, llevo 3 años trediando con cryptomonedas, tambien me gusta practicar boxeo",
-    "Publico": "ASISTENTE",
-    "foto": "/img/mono.jpg"
-  },
-  {
-    "id": 6,
-    "Nickname": "Oscar",
-    "Contacto": 573203748687,
-    "Ubicacion": "Castilla, Bogotá",
-    "Temas": "Finanzas, Competencias automovilísticas, Vehículos de carga pesada, Metas personales",
-    "Descripcion": "Yo soy gerente de planeacion financiera, experiencia en sector financiero y sector de ingeniería, profesional en comercio exterior",
-    "Publico": "ASISTENTE",
-    "foto": "/img/oscar.jpg"
-  },
-  {
-    "id": 7,
-    "Nickname": "Jesus",
-    "Contacto": 573203748687,
-    "Ubicacion": "Ciudad Verde, Bogotá",
-    "Temas": "Arte, Creatividad, Colorimetria, Nuevas tendencias, Peluquería innovadora, Limpieza, Orden, Farándula, Moda, Atencion al cliente",
-    "Descripcion": "Estilista profesional desde hace 15 años con amplia experiencia en mi  profesion. Tengo  La capacidad de transformar a las personas con un estilo creativo, moderno y único. Mi mayor virtud es dar lo mejor para satisfacer las necesidades de mis clientes. He trabajado durante un largo perido en canales  de tv y peluquerias  reconocidas de la ciudad con mucha disciplina y amor por mi trabajo.",
-    "Publico": "ASISTENTE",
-    "foto": "/img/jesus.jpg"
-  },
-  {
-    "id": 8,
-    "Nickname": "Gabriel",
-    "Contacto": 573203748687,
-    "Ubicacion": "Tintal, Bogotá",
-    "Temas": "Japones, Dibujo, Tiro con armas, Servicio militar en colombia, Policía nacional",
-    "Descripcion": "si hay alguien que tiene alguna duda o concejo para prestar el servicio militar, con gusto los ayudo, busco a alguien con quien practicar el idioma japones, y hablar de anime. Acesoramiento de tiro con armas para principiantes",
-    "Publico": "ASISTENTE",
-    "foto": "/img/gabriel.jpg"
-  },
-  {
-    "id": 9,
-    "Nickname": "Yara",
-    "Contacto": 573203748687,
-    "Ubicacion": "Tintal, Bogotá",
-    "Temas": "Contaduria publica, Analisis de impuestos, Presentacion de impuestos, Deduccion de impuestos, Declaraciones de renta",
-    "Descripcion": "soy contadora publica con mas de 10 años de experiencia, soy experta en analis en presentacion y deduccion de impuestos, tengo mucha experiencia en declaraciones de renta tanto para personas naturales como juridicas",
-    "Publico": "ASISTENTE",
-    "foto": "/img/yara.jpg"
-  },
-  {
-    "id": 10,
-    "Nickname": "Bryant",
-    "Contacto": 573203748687,
-    "Ubicacion": "Castilla, Bogotá",
-    "Temas": "Fotografia, Ingenieria de telecomunicaciones",
-    "Descripcion": "fotografo aficionado con 4 años de experiencia",
-    "Publico": "ASISTENTE",
-    "foto": "/img/bryant.jpg"
-  },
-  {
-    "id": 11,
-    "Nickname": "Andrew",
-    "Contacto": 573203748687,
-    "Ubicacion": "Engativa, Bogotá",
-    "Temas": "Seguridad Informatica, IA, Medicina",
-    "Descripcion": "soy desarrollador full-stack, CTO y Cofundador, me apasiona la inteligencia artificial y la informatica",
-    "Publico": "ASISTENTE",
-    "foto": "/img/andrew.jpg"
-  },
-  {
-    "id": 12,
-    "Nickname": "Vanessa",
-    "Contacto": 573203748687,
-    "Ubicacion": "Woodbury, Minnesota",
-    "Temas": "Pedagogia, Shopping, Ingles",
-    "Descripcion": "Hola, soy colombiana viviendo mas de 20 años en Estados Unidos, tengo más de 15 años de experiencia en en educacion montessori, especialmente en niños de 3 a 7 años.",
-    "Publico": "ASISTENTE",
-    "foto": "/img/vanessa.jpg"
-  },
-  {
-    "id": 13,
-    "Nickname": "Jhonathan",
-    "Contacto": 573203748687,
-    "Ubicacion": "Woodbury, Minnesota",
-    "Temas": "Linguistica, Educacion",
-    "Descripcion": "Soy estudiante de la escuela Emporial, me gusta ayudar a otros estudiantes en matematicas, Ingles, Español y Frances",
-    "Publico": "ASISTENTE",
-    "foto": "/img/jhonathan.jpg"
-  },
-  {
-    "id": 14,
-    "Nickname": "Andres",
-    "Contacto": 573203748687,
-    "Ubicacion": "Bogotá, Chapinero",
-    "Temas": "Deep learning, Non Performing Loans",
-    "Descripcion": "Hola sory andres y te puedo enseñar a programar como generalista, .net medio-avanzado",
-    "Publico": "ASISTENTE",
-    "foto": "/img/1-andres-castro.jpg"
-  },
-  {
-    "id": 15,
-    "Nickname": "Monica",
-    "Contacto": 573203748687,
-    "Ubicacion": "Usme, Bogota",
-    "Temas": "Cloud Computing, Linux",
-    "Descripcion": "Hola soy Monica y puedo enseñarte Configuración de VPN site a site \nAnálisis de vulnerabilidades (básico) \nAnálisis forense (básico)",
-    "Publico": "ASISTENTE",
-    "foto": "/img/2-monica-ramirez.jpg"
-  },
-  {
-    "id": 16,
-    "Nickname": "Jeison",
-    "Contacto": 573203748687,
-    "Ubicacion": "Usme, Bogotá",
-    "Temas": "Tecnología, Medios digitales",
-    "Descripcion": "Hola soy Jeison y todo lo que he aprendido en mi trabajo, RRHH y temas y procesos administrativos.",
-    "Publico": "ASISTENTE",
-    "foto": "/img/3-jeison-guataqui.jpg"
-  },
-  {
-    "id": 17,
-    "Nickname": "Andres",
-    "Contacto": 573203748687,
-    "Ubicacion": "Venecia, Bogotá",
-    "Temas": "Desarrollo de software",
-    "Descripcion": "Hola soy Andres y te puedo enseñar Programación",
-    "Publico": "ASISTENTE",
-    "foto": "/img/4-andres-leon.jpg"
-  },
-  {
-    "id": 18,
-    "Nickname": "Juan",
-    "Contacto": 573203748687,
-    "Ubicacion": "Bosa, Bogotá",
-    "Temas": "Ciberseguridad, Ethical hacking",
-    "Descripcion": "Hola soy Sebastian y te puedo enseñar Reparación de computadores, infraestructura, y soy instructor fisico",
-    "Publico": "ASISTENTE",
-    "foto": "/img/5-sebastian-ruiz.jpg"
-  },
-  {
-    "id": 19,
-    "Nickname": "Yohana",
-    "Contacto": 573203748687,
-    "Ubicacion": "Sogamoso, Boyacá",
-    "Temas": "Tecnologías limpias, Cambio climático, Planes de gestión, Ergonomía laboral, Epidemiología ambiental, Epidemiologia laboral",
-    "Descripcion": "Hola Soy Yohana, y te puedo enseñar: Gestion de riesgos laborales desde la normatividad colombiana y Gestión de residuos sólidos.",
-    "Publico": "ASISTENTE",
-    "foto": "/img/6-yohana-cardenas.jpg"
-  },
-  {
-    "id": 20,
-    "Nickname": "Wismark",
-    "Contacto": 573203748687,
-    "Ubicacion": "Kenedy Bogotá",
-    "Temas": "Natacion, Canto",
-    "Descripcion": "Hola soy wismark y te puedo enseñar en teoría musical y programación",
-    "Publico": "ASISTENTE",
-    "foto": "/img/7-wismark-castro.jpg"
-  },
-  {
-    "id": 21,
-    "Nickname": "David",
-    "Contacto": 573203748687,
-    "Ubicacion": "Soacha, Bogotá",
-    "Temas": "Diseño, Arte, Baile, Deportes extremos",
-    "Descripcion": "Hola soy David y puedo enseñar sobre retrato en carboncillo, arte y Enseñar sobre tercera percusión",
-    "Publico": "ASISTENTE",
-    "foto": "/img/8-david-aros.jpg"
-  },
-  {
-    "id": 22,
-    "Nickname": "Edgar",
-    "Contacto": 573203748687,
-    "Ubicacion": "Usme, Bogotá",
-    "Temas": "Tecnólogia, Linux, Cloud",
-    "Descripcion": "Hola soy edgard y puedo enseñar Linux, conceptos de sysadmin, y cosas básicas de seguridad",
-    "Publico": "ASISTENTE",
-    "foto": "/img/9-edgar-hernandez.jpg"
-  },
-  {
-    "id": 23,
-    "Nickname": "Luis",
-    "Contacto": 573203748687,
-    "Ubicacion": "Soacha, Bogotá",
-    "Temas": "Percusión, Bongos, Arquitectura de software",
-    "Descripcion": "Hola soy Luis y puedo enseñar arquitecturas de software, buenas practicas de codificación y gestión de equipos de desarrollo, y enseñar a programar",
-    "Publico": "ASISTENTE",
-    "foto": "/img/10-luis-bolivar.jpg"
-  },
-  {
-    "id": 24,
-    "Nickname": "Miyu",
-    "Contacto": 573203748687,
-    "Ubicacion": "La abadia, Envigado",
-    "Temas": "UX design, Receta veganas, Fitness, CrossFit, Yoga, Diseño ergonómico, Minimalismo",
-    "Descripcion": "Soy de Kióto,Japón, llevo 2 años viviendo en Colombia. Estoy aprendiendo diseño UX y Flutter.",
-    "Publico": "CONTACTO",
-    "foto": "/img/miyu.jpg"
-  },
-  {
-    "id": 25,
-    "Nickname": "Paula",
-    "Contacto": 573203748687,
-    "Ubicacion": "Colina, Bogotá",
-    "Temas": "Diseño",
-    "Descripcion": "Diseñadora en formación, y podría decir que psicóloga frustrada. Me gusta hablar de los sentimientos y del amor. También, me gusta probar productos nuevos y dar mi perspectiva desde el diseño. Si quieres una mirada desde el diseño para algún proyecto nuevo, acá estaré.",
-    "Publico": "ASISTENTE",
-    "foto": "/img/paula.jpg"
-  },
-  {
-    "id": 26,
-    "Nickname": "Sara",
-    "Contacto": 573203748687,
-    "Ubicacion": "Usaquen, Bogotá",
-    "Temas": "Tela aérea, Análisis de datos, Series",
-    "Descripcion": "Ingeniera Industial con énfasis en métodos cuantitatios y logística.",
-    "Publico": "CONTACTO",
-   "foto": ""
-  },
-  {
-    "id": 27,
-    "Nickname": "Esteban",
-    "Contacto": 573203748687,
-    "Ubicacion": "Suesca, Cundinamarca",
-    "Temas": "Ultimate, criptomonedas, suculentas, planos licencias de construcción.",
-    "Descripcion": "Egresado de Ingeniería Civil, apasionado por el Ultimate frisbee, viajar, escuchar música, caminar, correr.",
-    "Publico": "CONTACTO",
-   "foto": ""
-  },
-  {
-    "id": 28,
-    "Nickname": "Sebastián",
-    "Contacto": 573203748687,
-    "Ubicacion": "",
-    "Temas": "Desarrollo web, Tecnología, Música, Fotografía",
-    "Descripcion": "Trabajo con la web desde hace 10 años.",
-    "Publico": "CONTACTO",
-   "foto": ""
-  },
-  {
-    "id": 29,
-    "Nickname": "Álvaro",
-    "Contacto": 573203748687,
-    "Ubicacion": "Usaquen, Bogotá",
-    "Temas": "Lectura, Gastronomía, Ejercicio físico",
-    "Descripcion": "Ingeniero de petróleos, con más de 30 años de experiencia en la industria, en perforación y completamiento de pozos.  Especializado en desarrollo de negocios.",
-    "Publico": "CONTACTO",
-   "foto": ""
-  },
-  {
-    "id": 30,
-    "Nickname": "Maicol",
-    "Contacto": 573203748687,
-    "Ubicacion": "",
-    "Temas": "Cuidado animal,  Creacion de sitios web, Fundaciones",
-    "Descripcion": "Diseño web.  Especialidad  HTML, Boostrap y base de datos SQL.",
-    "Publico": "CONTACTO",
-   "foto": ""
-  },
-  {
-    "id": 31,
-    "Nickname": "Rocío",
-    "Contacto": 573203748687,
-    "Ubicacion": "Usaquén, Bogotá",
-    "Temas": "Fotografía, Filosofía, Terapias alternativas, Fitness, Yoga, Alimentación saludable, Optimización energética, Compostaje, Sostenibilidad, Cuidado del planeta, Nuevas tecnologías, Blockchain.",
-    "Descripcion": "Ingeniera Química.  Fisioterapeuta. Soy entrenadora personal, certificada en Pilates, TRX, Estiramiento Global Activo y Reeducación Postural Global. Últimamente dedicada al desarrollo de software con énfsis en Front end con HTML, CSS, JS, React; así como a un acercamiento conceptual a las tecnologías de la Cuarta Revolución Industial.",
-    "Publico": "CONTACTO",
-   "foto": "/img/rocio.jpg"
-  },
-  {
-    "id": 32,
-    "Nickname": "Laura",
-    "Contacto": 573203748687,
-    "Ubicacion": "Sidney, Australia",
-    "Temas": "Análisis digital manejando grandes bases de datos.  Viajar.  Decoración y diseño de interiores.",
-    "Descripcion": "Estudié Finanzas y Relaciones Internacionales. Soy profesional en análisis digital de una de las empresas más grandes de Australia. El análisis digital incluye el manejo de grandes bases de datos para derivar iniciativas que ayuden al constante desarrollo de los activos digitales que los clientes usan a diario para realizar su compra de seguros de manera digital. Por otro lado me apasiona la decoración y diseño de interiores. Por último, me encanta viajar cada vez que tengo la oportunidad y conocer nuevos destinos.",
-    "Publico": "ASISTENTE",
-    "foto": "/img/laura.jpeg"
-  },
-  {
-    "id": 33,
-    "Nickname": "Gina",
-    "Contacto": 573118880255,
-    "Ubicacion": "Castilla, Bogotá",
-    "Temas": "Gatos, adopcion de perros, adopcion de gatos, cuidado de mascotas",
-    "Descripcion": "Soy cat lover y puedo brindar orientacion a las personas que adopten o quieran adoptar gatos o perros acerca de los cuidados, vacunas, esterilizacion, sitios para adoptar en Bogotá, apoyo a funcaciones, etc",
-    "Publico": "CONTACTO",
-   "foto": ""
-  }
-]
+    {
+      "id": 1,
+      "Nickname": "Luis",
+      "Contacto": 573203748687,
+      "Ubicacion": "Bogota, Colombia",
+      "Temas": "Filosofía estoica, Precalculo, Ciencias de la computación",
+      "Descripcion": "Hola soy Luis, si deseas un poco de conversación o incluso una asesoria, no dudes en escribirme, generalmente, estoy con disponibilidad de 8pm a 10 pm.",
+      "Publico": "CONTACTO",
+      "foto": "/img/Fernando.jpg"
+    },
+    {
+      "id": 2,
+      "Nickname": "Seneth",
+      "Contacto": 573203748687,
+      "Ubicacion": "Bolivar, Colombia",
+      "Temas": "Artes plasticas, Animación 3D",
+      "Descripcion": "Llevo 2 años como modeladora 3d y desarrolladora de ambientes 3d para videojuegos, trabajé 2 años en Kirvit ltd como desarrolladora de ambientes 3d para Prepard, Flier Simulator y Scanner, motores de simulación de vuelo y vehículos respectivamente.\nTambién hice mis practicas de animación 3d en la empresa Signos Studio de Zipaquirá, dónde me desempeñé como modeladora 3d.",
+      "Publico": "CONTACTO",
+      "foto": "/img/Seneth.jpg"
+    },
+    {
+      "id": 3,
+      "Nickname": "Nicolas",
+      "Contacto": 573203748687,
+      "Ubicacion": "Bogota, Colombia",
+      "Temas": "Cine y Television",
+      "Descripcion": "Soy una persona carismática, creativa quien posee la cualidad de generar buenas relaciones interpersonales. Me apasionan los retos que me conlleven a aprender y a mejorar, busco siempre ser una mejor versión de mí mismo cada día, soy apasionado y determinado en cumplir los sueños y metas que me planteo.  Manejo de programas como Premiere Pro, After effects, Photoshop, Audition, Pro tolos, Celtx, kit scenarist, Lightroom y BrightSing.",
+      "Publico": "CONTACTO",
+      "foto": "/img/nicolas.jpg"
+    },
+    {
+      "id": 4,
+      "Nickname": "Joseph",
+      "Contacto": 573203748687,
+      "Ubicacion": "La Abadia, Envigado",
+      "Temas": "IA, Inversiones, Crecimiento personal, CrossFit, Startups, Data Science, Emprendimiento",
+      "Descripcion": "Hola, soy un emprendedor apasionado por el well being, la inteligencia artificial, los negocios y la educacion, te puedo asesorar en Metematicas de colegio, Ingles, y organizacion personal",
+      "Publico": "CONTACTO",
+      "foto": "/img/joseph.jpg"
+    },
+    {
+      "id": 5,
+      "Nickname": "Mono",
+      "Contacto": 573203748687,
+      "Ubicacion": "Mazuren, Bogotá",
+      "Temas": "Trading, Criptomonedas, Crecimiento personal, Boxeo",
+      "Descripcion": "Hola me dicen el Mono, llevo 3 años trediando con cryptomonedas, tambien me gusta practicar boxeo",
+      "Publico": "ASISTENTE",
+      "foto": "/img/mono.jpg"
+    },
+    {
+      "id": 6,
+      "Nickname": "Oscar",
+      "Contacto": 573203748687,
+      "Ubicacion": "Castilla, Bogotá",
+      "Temas": "Finanzas, Competencias automovilísticas, Vehículos de carga pesada, Metas personales",
+      "Descripcion": "Yo soy gerente de planeacion financiera, experiencia en sector financiero y sector de ingeniería, profesional en comercio exterior",
+      "Publico": "ASISTENTE",
+      "foto": "/img/oscar.jpg"
+    },
+    {
+      "id": 7,
+      "Nickname": "Jesus",
+      "Contacto": 573203748687,
+      "Ubicacion": "Ciudad Verde, Bogotá",
+      "Temas": "Arte, Creatividad, Colorimetria, Nuevas tendencias, Peluquería innovadora, Limpieza, Orden, Farándula, Moda, Atencion al cliente",
+      "Descripcion": "Estilista profesional desde hace 15 años con amplia experiencia en mi  profesion. Tengo  La capacidad de transformar a las personas con un estilo creativo, moderno y único. Mi mayor virtud es dar lo mejor para satisfacer las necesidades de mis clientes. He trabajado durante un largo perido en canales  de tv y peluquerias  reconocidas de la ciudad con mucha disciplina y amor por mi trabajo.",
+      "Publico": "ASISTENTE",
+      "foto": "/img/jesus.jpg"
+    },
+    {
+      "id": 8,
+      "Nickname": "Gabriel",
+      "Contacto": 573203748687,
+      "Ubicacion": "Tintal, Bogotá",
+      "Temas": "Japones, Dibujo, Tiro con armas, Servicio militar en colombia, Policía nacional",
+      "Descripcion": "si hay alguien que tiene alguna duda o concejo para prestar el servicio militar, con gusto los ayudo, busco a alguien con quien practicar el idioma japones, y hablar de anime. Acesoramiento de tiro con armas para principiantes",
+      "Publico": "ASISTENTE",
+      "foto": "/img/gabriel.jpg"
+    },
+    {
+      "id": 9,
+      "Nickname": "Yara",
+      "Contacto": 573203748687,
+      "Ubicacion": "Tintal, Bogotá",
+      "Temas": "Contaduria publica, Analisis de impuestos, Presentacion de impuestos, Deduccion de impuestos, Declaraciones de renta",
+      "Descripcion": "soy contadora publica con mas de 10 años de experiencia, soy experta en analis en presentacion y deduccion de impuestos, tengo mucha experiencia en declaraciones de renta tanto para personas naturales como juridicas",
+      "Publico": "ASISTENTE",
+      "foto": "/img/yara.jpg"
+    },
+    {
+      "id": 10,
+      "Nickname": "Bryant",
+      "Contacto": 573203748687,
+      "Ubicacion": "Castilla, Bogotá",
+      "Temas": "Fotografia, Ingenieria de telecomunicaciones",
+      "Descripcion": "fotografo aficionado con 4 años de experiencia",
+      "Publico": "ASISTENTE",
+      "foto": "/img/bryant.jpg"
+    },
+    {
+      "id": 11,
+      "Nickname": "Andrew",
+      "Contacto": 573203748687,
+      "Ubicacion": "Engativa, Bogotá",
+      "Temas": "Seguridad Informatica, IA, Medicina",
+      "Descripcion": "soy desarrollador full-stack, CTO y Cofundador, me apasiona la inteligencia artificial y la informatica",
+      "Publico": "ASISTENTE",
+      "foto": "/img/andrew.jpg"
+    },
+    {
+      "id": 12,
+      "Nickname": "Vanessa",
+      "Contacto": 573203748687,
+      "Ubicacion": "Woodbury, Minnesota",
+      "Temas": "Pedagogia, Shopping, Ingles",
+      "Descripcion": "Hola, soy colombiana viviendo mas de 20 años en Estados Unidos, tengo más de 15 años de experiencia en en educacion montessori, especialmente en niños de 3 a 7 años.",
+      "Publico": "ASISTENTE",
+      "foto": "/img/vanessa.jpg"
+    },
+    {
+      "id": 13,
+      "Nickname": "Jhonathan",
+      "Contacto": 573203748687,
+      "Ubicacion": "Woodbury, Minnesota",
+      "Temas": "Linguistica, Educacion",
+      "Descripcion": "Soy estudiante de la escuela Emporial, me gusta ayudar a otros estudiantes en matematicas, Ingles, Español y Frances",
+      "Publico": "ASISTENTE",
+      "foto": "/img/jhonathan.jpg"
+    },
+    {
+      "id": 14,
+      "Nickname": "Andres",
+      "Contacto": 573203748687,
+      "Ubicacion": "Bogotá, Chapinero",
+      "Temas": "Deep learning, Non Performing Loans",
+      "Descripcion": "Hola sory andres y te puedo enseñar a programar como generalista, .net medio-avanzado",
+      "Publico": "ASISTENTE",
+      "foto": "/img/1-andres-castro.jpg"
+    },
+    {
+      "id": 15,
+      "Nickname": "Monica",
+      "Contacto": 573203748687,
+      "Ubicacion": "Usme, Bogota",
+      "Temas": "Cloud Computing, Linux",
+      "Descripcion": "Hola soy Monica y puedo enseñarte Configuración de VPN site a site \nAnálisis de vulnerabilidades (básico) \nAnálisis forense (básico)",
+      "Publico": "ASISTENTE",
+      "foto": "/img/2-monica-ramirez.jpg"
+    },
+    {
+      "id": 16,
+      "Nickname": "Jeison",
+      "Contacto": 573203748687,
+      "Ubicacion": "Usme, Bogotá",
+      "Temas": "Tecnología, Medios digitales",
+      "Descripcion": "Hola soy Jeison y todo lo que he aprendido en mi trabajo, RRHH y temas y procesos administrativos.",
+      "Publico": "ASISTENTE",
+      "foto": "/img/3-jeison-guataqui.jpg"
+    },
+    {
+      "id": 17,
+      "Nickname": "Andres",
+      "Contacto": 573203748687,
+      "Ubicacion": "Venecia, Bogotá",
+      "Temas": "Desarrollo de software",
+      "Descripcion": "Hola soy Andres y te puedo enseñar Programación",
+      "Publico": "ASISTENTE",
+      "foto": "/img/4-andres-leon.jpg"
+    },
+    {
+      "id": 18,
+      "Nickname": "Juan",
+      "Contacto": 573203748687,
+      "Ubicacion": "Bosa, Bogotá",
+      "Temas": "Ciberseguridad, Ethical hacking",
+      "Descripcion": "Hola soy Sebastian y te puedo enseñar Reparación de computadores, infraestructura, y soy instructor fisico",
+      "Publico": "ASISTENTE",
+      "foto": "/img/5-sebastian-ruiz.jpg"
+    },
+    {
+      "id": 19,
+      "Nickname": "Yohana",
+      "Contacto": 573203748687,
+      "Ubicacion": "Sogamoso, Boyacá",
+      "Temas": "Tecnologías limpias, Cambio climático, Planes de gestión, Ergonomía laboral, Epidemiología ambiental, Epidemiologia laboral",
+      "Descripcion": "Hola Soy Yohana, y te puedo enseñar: Gestion de riesgos laborales desde la normatividad colombiana y Gestión de residuos sólidos.",
+      "Publico": "ASISTENTE",
+      "foto": "/img/6-yohana-cardenas.jpg"
+    },
+    {
+      "id": 20,
+      "Nickname": "Wismark",
+      "Contacto": 573203748687,
+      "Ubicacion": "Kenedy Bogotá",
+      "Temas": "Natacion, Canto",
+      "Descripcion": "Hola soy wismark y te puedo enseñar en teoría musical y programación",
+      "Publico": "ASISTENTE",
+      "foto": "/img/7-wismark-castro.jpg"
+    },
+    {
+      "id": 21,
+      "Nickname": "David",
+      "Contacto": 573203748687,
+      "Ubicacion": "Soacha, Bogotá",
+      "Temas": "Diseño, Arte, Baile, Deportes extremos",
+      "Descripcion": "Hola soy David y puedo enseñar sobre retrato en carboncillo, arte y Enseñar sobre tercera percusión",
+      "Publico": "ASISTENTE",
+      "foto": "/img/8-david-aros.jpg"
+    },
+    {
+      "id": 22,
+      "Nickname": "Edgar",
+      "Contacto": 573203748687,
+      "Ubicacion": "Usme, Bogotá",
+      "Temas": "Tecnólogia, Linux, Cloud",
+      "Descripcion": "Hola soy edgard y puedo enseñar Linux, conceptos de sysadmin, y cosas básicas de seguridad",
+      "Publico": "ASISTENTE",
+      "foto": "/img/9-edgar-hernandez.jpg"
+    },
+    {
+      "id": 23,
+      "Nickname": "Luis",
+      "Contacto": 573203748687,
+      "Ubicacion": "Soacha, Bogotá",
+      "Temas": "Percusión, Bongos, Arquitectura de software",
+      "Descripcion": "Hola soy Luis y puedo enseñar arquitecturas de software, buenas practicas de codificación y gestión de equipos de desarrollo, y enseñar a programar",
+      "Publico": "ASISTENTE",
+      "foto": "/img/10-luis-bolivar.jpg"
+    },
+    {
+      "id": 24,
+      "Nickname": "Miyu",
+      "Contacto": 573203748687,
+      "Ubicacion": "La abadia, Envigado",
+      "Temas": "UX design, Receta veganas, Fitness, CrossFit, Yoga, Diseño ergonómico, Minimalismo",
+      "Descripcion": "Soy de Kióto,Japón, llevo 2 años viviendo en Colombia. Estoy aprendiendo diseño UX y Flutter.",
+      "Publico": "CONTACTO",
+      "foto": "/img/miyu.jpg"
+    },
+    {
+      "id": 25,
+      "Nickname": "Paula",
+      "Contacto": 573203748687,
+      "Ubicacion": "Colina, Bogotá",
+      "Temas": "Diseño",
+      "Descripcion": "Diseñadora en formación, y podría decir que psicóloga frustrada. Me gusta hablar de los sentimientos y del amor. También, me gusta probar productos nuevos y dar mi perspectiva desde el diseño. Si quieres una mirada desde el diseño para algún proyecto nuevo, acá estaré.",
+      "Publico": "ASISTENTE",
+      "foto": "/img/paula.jpg"
+    },
+    {
+      "id": 26,
+      "Nickname": "Sara",
+      "Contacto": 573203748687,
+      "Ubicacion": "Usaquen, Bogotá",
+      "Temas": "Tela aérea, Análisis de datos, Series",
+      "Descripcion": "Ingeniera Industial con énfasis en métodos cuantitatios y logística.",
+      "Publico": "CONTACTO",
+     "foto": ""
+    },
+    {
+      "id": 27,
+      "Nickname": "Esteban",
+      "Contacto": 573203748687,
+      "Ubicacion": "Suesca, Cundinamarca",
+      "Temas": "Ultimate, criptomonedas, suculentas, planos licencias de construcción.",
+      "Descripcion": "Egresado de Ingeniería Civil, apasionado por el Ultimate frisbee, viajar, escuchar música, caminar, correr.",
+      "Publico": "CONTACTO",
+     "foto": ""
+    },
+    {
+      "id": 28,
+      "Nickname": "Sebastián",
+      "Contacto": 573203748687,
+      "Ubicacion": "",
+      "Temas": "Desarrollo web, Tecnología, Música, Fotografía",
+      "Descripcion": "Trabajo con la web desde hace 10 años.",
+      "Publico": "CONTACTO",
+     "foto": ""
+    },
+    {
+      "id": 29,
+      "Nickname": "Álvaro",
+      "Contacto": 573203748687,
+      "Ubicacion": "Usaquen, Bogotá",
+      "Temas": "Lectura, Gastronomía, Ejercicio físico",
+      "Descripcion": "Ingeniero de petróleos, con más de 30 años de experiencia en la industria, en perforación y completamiento de pozos.  Especializado en desarrollo de negocios.",
+      "Publico": "CONTACTO",
+     "foto": ""
+    },
+    {
+      "id": 30,
+      "Nickname": "Maicol",
+      "Contacto": 573203748687,
+      "Ubicacion": "",
+      "Temas": "Cuidado animal,  Creacion de sitios web, Fundaciones",
+      "Descripcion": "Diseño web.  Especialidad  HTML, Boostrap y base de datos SQL.",
+      "Publico": "CONTACTO",
+     "foto": ""
+    },
+    {
+      "id": 31,
+      "Nickname": "Rocío",
+      "Contacto": 573203748687,
+      "Ubicacion": "Usaquén, Bogotá",
+      "Temas": "Fotografía, Filosofía, Terapias alternativas, Fitness, Yoga, Alimentación saludable, Optimización energética, Compostaje, Sostenibilidad, Cuidado del planeta, Nuevas tecnologías, Blockchain.",
+      "Descripcion": "Ingeniera Química.  Fisioterapeuta. Soy entrenadora personal, certificada en Pilates, TRX, Estiramiento Global Activo y Reeducación Postural Global. Últimamente dedicada al desarrollo de software con énfsis en Front end con HTML, CSS, JS, React; así como a un acercamiento conceptual a las tecnologías de la Cuarta Revolución Industial.",
+      "Publico": "CONTACTO",
+     "foto": "/img/rocio.jpg"
+    },
+    {
+      "id": 32,
+      "Nickname": "Laura",
+      "Contacto": 573203748687,
+      "Ubicacion": "Sidney, Australia",
+      "Temas": "Análisis digital manejando grandes bases de datos.  Viajar.  Decoración y diseño de interiores.",
+      "Descripcion": "Estudié Finanzas y Relaciones Internacionales. Soy profesional en análisis digital de una de las empresas más grandes de Australia. El análisis digital incluye el manejo de grandes bases de datos para derivar iniciativas que ayuden al constante desarrollo de los activos digitales que los clientes usan a diario para realizar su compra de seguros de manera digital. Por otro lado me apasiona la decoración y diseño de interiores. Por último, me encanta viajar cada vez que tengo la oportunidad y conocer nuevos destinos.",
+      "Publico": "ASISTENTE",
+      "foto": "/img/laura.jpeg"
+    },
+    {
+      "id": 33,
+      "Nickname": "Gina",
+      "Contacto": 573118880255,
+      "Ubicacion": "Castilla, Bogotá",
+      "Temas": "Gatos, adopcion de perros, adopcion de gatos, cuidado de mascotas",
+      "Descripcion": "Soy cat lover y puedo brindar orientacion a las personas que adopten o quieran adoptar gatos o perros acerca de los cuidados, vacunas, esterilizacion, sitios para adoptar en Bogotá, apoyo a funcaciones, etc",
+      "Publico": "CONTACTO",
+     "foto": ""
+    }
+  ]
