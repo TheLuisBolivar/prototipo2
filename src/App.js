@@ -9,11 +9,10 @@ function App() {
   const handleSearch = (e) => {
     const newContactos = !e.target.value
       ? contactos
-      : listaContactos.filter((contacto) =>          
+      : listaContactos.filter((contacto) =>
           contacto.Temas.join().toLocaleLowerCase().normalize('NFD').replace(/[\u0300-\u036f]/g, "").includes(
             e.target.value.toLocaleLowerCase()
-          )
-        );
+          ));
     setContactos(newContactos);
   };
 

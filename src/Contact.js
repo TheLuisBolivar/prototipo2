@@ -1,5 +1,4 @@
 import constants from "./Constants";
-
 const Contact = ({ contacto }) => {
   let media = "Nuevo";
   validateContactFields(contacto);
