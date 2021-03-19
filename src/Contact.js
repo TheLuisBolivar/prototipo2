@@ -1,8 +1,6 @@
 import constants from "./Constants";
 const Contact = ({ contacto }) => {
   let media;
-
-  console.log(contacto)
   validateContactFields(contacto, media)
 
   return (
@@ -60,11 +58,11 @@ const Contact = ({ contacto }) => {
 };
 
 function validateContactFields(contact, media) {
-  contact.foto = (contact.foto === "" || contact.foto == null) ?
+  contact.foto = (contact.foto == null || contact.foto === "") ?
       constants.IMAGE_CONTACTOS_PRO : contact.foto;
 
-  contact.Contacto = (contact.Contacto === "" ||contact.Contacto == null) ?
-  constants.ADVISER_CONTACTOS_PRO : contact.Contacto;
+  contact.Contacto = (contact.Contacto == null || contact.Contacto === "") ?
+      constants.ADVISER_CONTACTOS_PRO : contact.Contacto;
 
   if (!contact.Rating.length) {
     media = "Nuevo";
