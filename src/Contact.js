@@ -1,8 +1,9 @@
 import constants from "./Constants";
-const Contact = ({ contacto }) => {
-  let media;
-  validateContactFields(contacto, media)
 
+
+const Contact = ({ contacto }) => {
+  let media = "Nuevo";
+  validateContactFields(contacto);
   return (
     <div className="contact">
       <div className="row align-items-center">
@@ -32,9 +33,7 @@ const Contact = ({ contacto }) => {
         </div>
       </div>
       <ul className="row_skills">
-        {contacto.Temas.map((tema) => (
-          <li key={tema}>{tema}</li>
-        ))}
+        {contacto.Temas}
       </ul>
 
       <div className="row_tooltip">
@@ -63,13 +62,6 @@ function validateContactFields(contact, media) {
 
   contact.Contacto = (contact.Contacto == null || contact.Contacto === "") ?
       constants.ADVISER_CONTACTOS_PRO : contact.Contacto;
-
-  if (!contact.Rating.length) {
-    media = "Nuevo";
-  } else {
-    media = contact.Rating.reduce((a, b) => a + b, 0) / contact.Rating.length;
-    media = `${media.toFixed(1)} (${Math.round((media / 5) * 100)}%)`;
-  }
 }
 
 export default Contact;

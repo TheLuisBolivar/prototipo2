@@ -1,4 +1,5 @@
 module.exports = Object.freeze({
     IMAGE_CONTACTOS_PRO: '/img/contactosPro.jpg',
-    ADVISER_CONTACTOS_PRO: '573222133100'
+    ADVISER_CONTACTOS_PRO: '573042846298',
+    IMAGE_ROOT : '/img/'
 })
