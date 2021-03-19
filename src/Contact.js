@@ -48,7 +48,7 @@ const Contact = ({ contacto }) => {
           target="_blank"
           rel="noreferrer"
         >
-          <button type="button">CONTACTO</button>
+          <button type="button">{contacto.Publico}</button>
         </a>
       </div>
     </div>

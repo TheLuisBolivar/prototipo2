@@ -257,7 +257,7 @@
       "Temas": "Tela aérea, Análisis de datos, Series",
       "Descripcion": "Ingeniera Industial con énfasis en métodos cuantitatios y logística.",
       "Publico": "CONTACTO",
-     "foto": ""
+     "foto": "/img/sara.jpg"
     },
     {
       "id": 27,
@@ -267,7 +267,7 @@
       "Temas": "Ultimate, criptomonedas, suculentas, planos licencias de construcción.",
       "Descripcion": "Egresado de Ingeniería Civil, apasionado por el Ultimate frisbee, viajar, escuchar música, caminar, correr.",
       "Publico": "CONTACTO",
-     "foto": ""
+     "foto": "/img/esteban.jpg"
     },
     {
       "id": 28,
@@ -287,7 +287,7 @@
       "Temas": "Lectura, Gastronomía, Ejercicio físico",
       "Descripcion": "Ingeniero de petróleos, con más de 30 años de experiencia en la industria, en perforación y completamiento de pozos.  Especializado en desarrollo de negocios.",
       "Publico": "CONTACTO",
-     "foto": ""
+     "foto": "/img/alvaro.jpg"
     },
     {
       "id": 30,
@@ -297,7 +297,7 @@
       "Temas": "Cuidado animal,  Creacion de sitios web, Fundaciones",
       "Descripcion": "Diseño web.  Especialidad  HTML, Boostrap y base de datos SQL.",
       "Publico": "CONTACTO",
-     "foto": ""
+     "foto": "/img/maicol.jpg"
     },
     {
       "id": 31,
@@ -317,7 +317,7 @@
       "Temas": "Análisis digital manejando grandes bases de datos.  Viajar.  Decoración y diseño de interiores.",
       "Descripcion": "Estudié Finanzas y Relaciones Internacionales. Soy profesional en análisis digital de una de las empresas más grandes de Australia. El análisis digital incluye el manejo de grandes bases de datos para derivar iniciativas que ayuden al constante desarrollo de los activos digitales que los clientes usan a diario para realizar su compra de seguros de manera digital. Por otro lado me apasiona la decoración y diseño de interiores. Por último, me encanta viajar cada vez que tengo la oportunidad y conocer nuevos destinos.",
       "Publico": "ASISTENTE",
-      "foto": "/img/laura.jpeg"
+      "foto": "/img/laura.jpg"
     },
     {
       "id": 33,
