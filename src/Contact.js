@@ -1,10 +1,7 @@
 import constants from "./Constants";
 const Contact = ({ contacto }) => {
-  let media;
-
-  console.log(contacto)
-  validateContactFields(contacto, media)
-
+  let media = "Nuevo";
+  validateContactFields(contacto);
   return (
     <div className="contact">
       <div className="row align-items-center">
@@ -17,11 +14,11 @@ const Contact = ({ contacto }) => {
         </div>
         <div className="col-8">
           <div className="row">
-            <div className="name-rating col-9">
+            <div className="name-rating col-8">
               <h3>{contacto.Nickname}</h3>
               <p className="rating">{media}</p>
             </div>
-            <div className="col-3 map">
+            <div className="col-4 map">
               <a
                 href={`https://www.google.com/maps/place/${contacto.Ubicacion}`}
                 target="_blank"
@@ -34,9 +31,7 @@ const Contact = ({ contacto }) => {
         </div>
       </div>
       <ul className="row_skills">
-        {contacto.Temas.map((tema) => (
-          <li key={tema}>{tema}</li>
-        ))}
+        {contacto.Temas}
       </ul>
 
       <div className="row_tooltip">
@@ -52,7 +47,7 @@ const Contact = ({ contacto }) => {
           target="_blank"
           rel="noreferrer"
         >
-          <button type="button">CONTACTO</button>
+          <button type="button">{contacto.Publico}</button>
         </a>
       </div>
     </div>
@@ -60,18 +55,11 @@ const Contact = ({ contacto }) => {
 };
 
 function validateContactFields(contact, media) {
-  contact.foto = (contact.foto === "" || contact.foto == null) ?
+  contact.foto = (contact.foto == null || contact.foto === "") ?
       constants.IMAGE_CONTACTOS_PRO : contact.foto;
 
-  contact.Contacto = (contact.Contacto === "" ||contact.Contacto == null) ?
-  constants.ADVISER_CONTACTOS_PRO : contact.Contacto;
-
-  if (!contact.Rating.length) {
-    media = "Nuevo";
-  } else {
-    media = contact.Rating.reduce((a, b) => a + b, 0) / contact.Rating.length;
-    media = `${media.toFixed(1)} (${Math.round((media / 5) * 100)}%)`;
-  }
+  contact.Contacto = (contact.Contacto == null || contact.Contacto === "") ?
+      constants.ADVISER_CONTACTOS_PRO : contact.Contacto;
 }
 
 export default Contact;

@@ -7,14 +7,23 @@ function App() {
   const [contactos, setContactos] = useState(listaContactos);
 
   const handleSearch = (e) => {
-    const newContactos = !e.target.value
-      ? contactos
-      : listaContactos.filter((contacto) =>          
-          contacto.Temas.join().toLocaleLowerCase().normalize('NFD').replace(/[\u0300-\u036f]/g, "").includes(
-            e.target.value.toLocaleLowerCase()
-          )
+    let nuevosContactos = [];
+
+    if (e.target.value === '') {
+      nuevosContactos = contactos;
+    } else {
+      nuevosContactos = listaContactos.filter((contacto) => {
+        console.log(contacto.Temas);
+        return contacto.Temas.join().toLocaleLowerCase().normalize('NFD').replace(/[\u0300-\u036f]/g, "").includes(
+          e.target.value.toLocaleLowerCase()
         );
-    setContactos(newContactos);
+      });
+    }
+
+
+
+    
+    setContactos(nuevosContactos);
   };
 
   return (
