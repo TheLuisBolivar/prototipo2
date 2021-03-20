@@ -24,7 +24,7 @@
       "Nickname": "Nicolas",
       "Contacto": 573214254818,
       "Ubicacion": "Bogota, Colombia",
-      "Temas": "Cine y Television",
+      "Temas": ["Cine", "Television"],
       "Descripcion": "Soy una persona carismática, creativa quien posee la cualidad de generar buenas relaciones interpersonales. Me apasionan los retos que me conlleven a aprender y a mejorar, busco siempre ser una mejor versión de mí mismo cada día, soy apasionado y determinado en cumplir los sueños y metas que me planteo.  Manejo de programas como Premiere Pro, After effects, Photoshop, Audition, Pro tolos, Celtx, kit scenarist, Lightroom y BrightSing.",
       "Publico": "CONTACTO",
       "foto": "/img/nicolas.jpg"
