@@ -2,6 +2,7 @@ import { useState } from "react";
 import Contact from "./Contact";
 import Search from "./Search";
 import listaContactos from "./contactos.json";
+import './App.css';
 
 function App() {
   const [contactos, setContactos] = useState(listaContactos);
@@ -19,15 +20,12 @@ function App() {
         );
       });
     }
-
-
-
     
     setContactos(nuevosContactos);
   };
 
   return (
-    <div className="App container">
+    <div className="container">
       <Search handleSearch={handleSearch} />
       <div className="contact-container">
         {contactos.map((contacto) => (
