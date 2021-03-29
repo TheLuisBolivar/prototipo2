@@ -6,11 +6,11 @@
 
 body {
   background-color: #4c4c4c;
-}
+  }
 
 .container {
   max-width: 960px;
-}
+  }
 
 #myInput {
   /* background-image: url("images/search.png"); */
@@ -134,11 +134,9 @@ button {
 .contact {
   padding: 0;
   margin-top: 10px;
-  margin-bottom: 50px;
-  
+  margin-bottom: 10px;
 }
 
-/* Midium Screen */
 @media (min-width: 600px) and (max-width: 900px) {
   .contact-container {
     display: grid;
@@ -148,7 +146,6 @@ button {
   }
 }
 
-/* Large Screen */
 @media (min-width: 901px) {
   .contact-container {
     display: grid;
