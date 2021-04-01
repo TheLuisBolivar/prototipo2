@@ -135,6 +135,12 @@ button {
   padding: 0;
   margin-top: 10px;
   margin-bottom: 10px;
+  
+}
+
+div.form-feedback {
+  height: 42px;  
+  background: green; 
 }
 
 @media (min-width: 600px) and (max-width: 900px) {
