@@ -1,10 +1,11 @@
 import { useState } from "react";
-import Contact from "./Contact";
-import Search from "./Search";
+import Contact from "./components/Contact";
+import Search from "./components/Search";
 import listaContactos from "./contactos.json";
-import './App.css';
+import Footer from './components/Footer.js'
 
 function App() {
+
   const [contactos, setContactos] = useState(listaContactos);
 
   const handleSearch = (e) => {
@@ -26,13 +27,19 @@ function App() {
 
   return (
     <div className="container">
-      <Search handleSearch={handleSearch} />
+      <Search handleSearch={handleSearch} />          
+       
       <div className="contact-container">
         {contactos.map((contacto) => (
           <Contact contacto={contacto} key={contacto.id} />
         ))}
+     </div>
+        <Footer/>          
       </div>
-    </div>
+
+
+
+      
   );
 }
 

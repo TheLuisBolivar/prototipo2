@@ -1,4 +1,5 @@
 import constants from "./Constants";
+
 const Contact = ({ contacto }) => {
   let media = "Nuevo";
   validateContactFields(contacto);
@@ -47,7 +48,7 @@ const Contact = ({ contacto }) => {
           target="_blank"
           rel="noreferrer"
         >
-          <button type="button">{contacto.Publico}</button>
+          <button className="button-contacto" type="button">{contacto.Publico}</button>
         </a>
       </div>
     </div>

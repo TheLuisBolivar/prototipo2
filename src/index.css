@@ -4,26 +4,38 @@
   margin: 0;
 }
 
+.contact-container{
+  padding-top: 50px;
+  margin: 0 auto;
+}
+
 body {
-  background-color: #4c4c4c;
-  }
+  background-color: #4c4c4c; 
+}
 
 .container {
   max-width: 960px;
+  position: relative;  
   }
 
 #myInput {
-  /* background-image: url("images/search.png"); */
+  max-width: 960px;  
   background-position: 10px 10px;
   background-repeat: no-repeat;
-  width: 100%;
+  width: 97%;
   font-size: 16px;
-  padding: 12px 20px 12px 40px;
+  box-sizing: border-box; 
+  padding: 12px 10px;
   border: 1px solid #ddd;
   border-radius: 30px;
   margin-bottom: 20px;
-  margin-top: 10px;
   color: black;
+  position: fixed;
+  top:0;
+  left: 0;
+  right: 0;
+  margin: 0 auto;
+  z-index: 1000; 
 }
 
 h3 {
@@ -45,10 +57,11 @@ li {
 
 .row_skills {
   text-align: center;
+  color: white;
 }
 
 .row_skills li:not(:last-child)::after {
-  content: ", ";
+  content: ", ";  
 }
 
 .row {
@@ -65,12 +78,13 @@ img.icon {
 }
 
 .col-4 {
-  padding: 0;
+  padding: 0;  
 }
 
 .rating {
   margin: 0;
   text-align: left;
+  color: white;
 }
 
 .map {
@@ -79,19 +93,19 @@ img.icon {
 
 .map > a {
   color: white;
-  font-style: italic;
+  font-style: italic;  
 }
 
 .skills {
-  margin-top: 10px;
+  margin-top: 10px;  
 }
 
 .row_tooltip {
   position: relative;
-  display: block;
-  /* border-bottom: 1px dotted white; */
+  display: block;  
   text-align: center;
   margin-bottom: 15px;
+  color: white;
 }
 
 .row_tooltip .tooltiptext {
@@ -101,14 +115,13 @@ img.icon {
   text-align: left;
   border-radius: 6px;
   padding: 5px;
-  font-size: 13px;
-  /* Position the tooltip */
+  font-size: 13px;  
   position: absolute;
   z-index: 1;
   width: 200px;
   top: 100%;
   left: 50%;
-  margin-left: -100px;
+  margin-left: -100px;  
 }
 
 .row_tooltip:hover .tooltiptext {
@@ -121,7 +134,7 @@ img.icon {
   border: 1px solid #ccc;
 }
 
-button {
+.button-contacto {
   width: 250px;
   height: 50px;
   border: none;
@@ -135,6 +148,52 @@ button {
   padding: 0;
   margin-top: 10px;
   margin-bottom: 10px;
+  padding-bottom: 3px;
+  min-height: 300px;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  margin-top: 30px;   
+}
+
+.footer{
+  background: white;
+  margin-top: 0px;
+  position: fixed;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  margin: auto;
+  max-width: 960px;  
+  width: 97%;
+  padding: 1px;
+  display: flex;  
+  align-items: center;
+  justify-content: space-around;  
+}
+
+.footer a {
+  width: 50%;
+}
+
+.footer button{
+  border-radius: 8px;
+  border: none;
+  background: white;
+  width: 100%;
+  color:black;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 4px 0px;
+  outline: none;
+}
+
+.footer button:hover{
+  box-shadow: 0 1px 3px 0 rgb(60 64 67 / 30%), 0 4px 8px 3px rgb(60 64 67 / 15%);
+  z-index: 100;
+  position: relative;
+  outline: none;
 }
 
 @media (min-width: 600px) and (max-width: 900px) {
@@ -152,5 +211,17 @@ button {
     grid-template-columns: repeat(3, 1fr);
     grid-gap: 20px;
     grid-auto-rows: minmax(300px, auto);
+  }
+}
+
+@media (max-width: 768px) {
+  .footer button{
+    width: 100%;
+    font-size: 12px;
+  }
+
+  .footer button img{
+    height: 25px;
+    width: auto;
   }
 }

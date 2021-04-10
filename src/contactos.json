@@ -18,7 +18,10 @@
     "Nickname": "Seneth",
     "Contacto": 573164919000,
     "Ubicacion": "Bolívar, Colombia",
-    "Temas": ["Artes plásticas,", " Animación 3D"],
+    "Temas": [
+      "Artes plásticas,",
+      " Animación 3D"
+    ],
     "Descripcion": "Llevo 2 años como modeladora 3D y desarrolladora de ambientes 3D para videojuegos, trabajé 2 años en Kirvit ltd como desarrolladora de ambientes 3D para Prepard, Flier Simulator y Scanner, motores de simulación de vuelo y vehículos respectivamente.\nTambién hice mis prácticas de animación 3d en la empresa Signos Studio de Zipaquirá, dónde me desempeñé como modeladora 3D.",
     "Publico": "CONTACTO",
     "foto": "/img/Seneth.jpg"
@@ -28,7 +31,9 @@
     "Nickname": "Nicolás",
     "Contacto": 573214254818,
     "Ubicacion": "Bogotá, Colombia",
-    "Temas": ["Cine y Televisión"],
+    "Temas": [
+      "Cine y Televisión"
+    ],
     "Descripcion": "Soy una persona carismática, creativa quien posee la cualidad de generar buenas relaciones interpersonales. Me apasionan los retos que me conlleven a aprender y a mejorar, busco siempre ser una mejor versión de mí mismo cada día, soy apasionado y determinado en cumplir los sueños y metas que me planteo.  Manejo de programas como Premiere Pro, After effects, Photoshop, Audition, Pro tolos, Celtx, kit scenarist, Lightroom y BrightSing.",
     "Publico": "CONTACTO",
     "foto": "/img/nicolas.jpg"
@@ -138,7 +143,10 @@
     "Nickname": "Bryant",
     "Contacto": 573042846298,
     "Ubicacion": "Castilla, Bogotá",
-    "Temas": ["Fotografía,", " Ingeniería de telecomunicaciones"],
+    "Temas": [
+      "Fotografía,",
+      " Ingeniería de telecomunicaciones"
+    ],
     "Descripcion": "Fotógrafo aficionado con 4 años de experiencia",
     "Publico": "ASISTENTE",
     "foto": "/img/bryant.jpg"
@@ -148,7 +156,11 @@
     "Nickname": "Andrew",
     "Contacto": 573042846298,
     "Ubicacion": "Engativá, Bogotá",
-    "Temas": ["Seguridad Informática,", " IA,", " Medicina"],
+    "Temas": [
+      "Seguridad Informática,",
+      " IA,",
+      " Medicina"
+    ],
     "Descripcion": "Soy desarrollador full-stack, CTO y Cofundador, me apasiona la inteligencia artificial y la informática",
     "Publico": "ASISTENTE",
     "foto": "/img/andrew.jpg"
@@ -158,7 +170,11 @@
     "Nickname": "Vanessa",
     "Contacto": 573042846298,
     "Ubicacion": "Woodbury, Minnesota",
-    "Temas": ["Pedagogía,", " Shopping,", " Inglés"],
+    "Temas": [
+      "Pedagogía,",
+      " Shopping,",
+      " Inglés"
+    ],
     "Descripcion": "Hola, soy colombiana viviendo mas de 20 años en Estados Unidos, tengo más de 15 años de experiencia en en educación Montessori, especialmente en niños de 3 a 7 años.",
     "Publico": "ASISTENTE",
     "foto": "/img/vanessa.jpg"
@@ -168,7 +184,10 @@
     "Nickname": "Jhonathan",
     "Contacto": 16513989026,
     "Ubicacion": "Woodbury, Minnesota",
-    "Temas": ["Lingüística,", " Educación"],
+    "Temas": [
+      "Lingüística,",
+      " Educación"
+    ],
     "Descripcion": "Soy estudiante de la escuela Emporial, me gusta ayudar a otros estudiantes en mateméticas, Inglés, Español y Francés",
     "Publico": "ASISTENTE",
     "foto": "/img/jhonathan.jpg"
@@ -178,7 +197,10 @@
     "Nickname": "Andrés",
     "Contacto": 573042846298,
     "Ubicacion": "Bogotá, Chapinero",
-    "Temas": ["Deep learning,", " Non Performing Loans"],
+    "Temas": [
+      "Deep learning,",
+      " Non Performing Loans"
+    ],
     "Descripcion": "Hola soy andrés y te puedo enseñar a programar como generalista, .net medio-avanzado",
     "Publico": "ASISTENTE",
     "foto": "/img/1-andres-castro.jpg"
@@ -188,7 +210,10 @@
     "Nickname": "Mónica",
     "Contacto": 573042846298,
     "Ubicacion": "Usme, Bogotá",
-    "Temas": ["Cloud Computing,", " Linux"],
+    "Temas": [
+      "Cloud Computing,",
+      " Linux"
+    ],
     "Descripcion": "Hola soy Mónica y puedo enseñarte Configuración de VPN site a site \nAnálisis de vulnerabilidades (básico) \nAnálisis forense (básico)",
     "Publico": "ASISTENTE",
     "foto": "/img/2-monica-ramirez.jpg"
@@ -198,7 +223,10 @@
     "Nickname": "Jeison",
     "Contacto": 573042846298,
     "Ubicacion": "Usme, Bogotá",
-    "Temas": ["Tecnología,", " Medios digitales"],
+    "Temas": [
+      "Tecnología,",
+      " Medios digitales"
+    ],
     "Descripcion": "Hola soy Jeison y todo lo que he aprendido en mi trabajo, RRHH y temas y procesos administrativos.",
     "Publico": "ASISTENTE",
     "foto": "/img/3-jeison-guataqui.jpg"
@@ -208,7 +236,9 @@
     "Nickname": "Andrés",
     "Contacto": 573042846298,
     "Ubicacion": "Venecia, Bogotá",
-    "Temas": ["Desarrollo de software"],
+    "Temas": [
+      "Desarrollo de software"
+    ],
     "Descripcion": "Hola soy Andrés y te puedo enseñar Programación",
     "Publico": "ASISTENTE",
     "foto": "/img/4-andres-leon.jpg"
@@ -218,7 +248,10 @@
     "Nickname": "Juan",
     "Contacto": 573042846298,
     "Ubicacion": "Bosa, Bogotá",
-    "Temas": ["Ciberseguridad,", " Ethical hacking"],
+    "Temas": [
+      "Ciberseguridad,",
+      " Ethical hacking"
+    ],
     "Descripcion": "Hola soy Sebastián y te puedo enseñar Reparación de computadores, infraestructura, y soy instructor físico",
     "Publico": "ASISTENTE",
     "foto": "/img/5-sebastian-ruiz.jpg"
@@ -245,7 +278,10 @@
     "Nickname": "Wismark",
     "Contacto": 573042846298,
     "Ubicacion": "Kenedy Bogotá",
-    "Temas": ["Natación,", " Canto"],
+    "Temas": [
+      "Natación,",
+      " Canto"
+    ],
     "Descripcion": "Hola soy wismark y te puedo enseñar en teoría musical y programación",
     "Publico": "ASISTENTE",
     "foto": "/img/7-wismark-castro.jpg"
@@ -255,7 +291,12 @@
     "Nickname": "David",
     "Contacto": 573042846298,
     "Ubicacion": "Soacha, Bogotá",
-    "Temas": ["Diseño,", " Arte,", " Baile,", " Deportes extremos"],
+    "Temas": [
+      "Diseño,",
+      " Arte,",
+      " Baile,",
+      " Deportes extremos"
+    ],
     "Descripcion": "Hola soy David y puedo enseñar sobre retrato en carboncillo, arte y Enseñar sobre tercera percusión",
     "Publico": "ASISTENTE",
     "foto": "/img/8-david-aros.jpg"
@@ -265,7 +306,11 @@
     "Nickname": "Edgar",
     "Contacto": 573042846298,
     "Ubicacion": "Usme, Bogotá",
-    "Temas": ["Tecnólogia,", " Linux,", " Cloud"],
+    "Temas": [
+      "Tecnólogia,",
+      " Linux,",
+      " Cloud"
+    ],
     "Descripcion": "Hola soy edgard y puedo enseñar Linux, conceptos de sysadmin, y cosas básicas de seguridad",
     "Publico": "ASISTENTE",
     "foto": "/img/9-edgar-hernandez.jpg"
@@ -275,7 +320,11 @@
     "Nickname": "Luis",
     "Contacto": 573042846298,
     "Ubicacion": "Soacha, Bogotá",
-    "Temas": ["Percusión,", " Bongos,", " Arquitectura de software"],
+    "Temas": [
+      "Percusión,",
+      " Bongos,",
+      " Arquitectura de software"
+    ],
     "Descripcion": "Hola soy Luis y puedo enseñar arquitecturas de software, buenas prácticas de codificación y gestión de equipos de desarrollo, y enseñar a programar",
     "Publico": "ASISTENTE",
     "foto": "/img/10-luis-bolivar.jpg"
@@ -303,7 +352,11 @@
     "Nickname": "Paula",
     "Contacto": 573203711011,
     "Ubicacion": "Colina, Bogotá",
-    "Temas": ["Diseño,", " Sentimientos,", " Amor"],
+    "Temas": [
+      "Diseño,",
+      " Sentimientos,",
+      " Amor"
+    ],
     "Descripcion": "Diseñadora en formación, y podría decir que psicóloga frustrada. Me gusta hablar de los sentimientos y del amor. También, me gusta probar productos nuevos y dar mi perspectiva desde el diseño. Si quieres una mirada desde el diseño para algún proyecto nuevo, acá estaré.",
     "Publico": "ASISTENTE",
     "foto": "/img/paula.jpg"
@@ -313,7 +366,11 @@
     "Nickname": "Sara",
     "Contacto": 573132096345,
     "Ubicacion": "Usaquén, Bogotá",
-    "Temas": ["Tela aérea,", " Análisis de datos,", " Series"],
+    "Temas": [
+      "Tela aérea,",
+      " Análisis de datos,",
+      " Series"
+    ],
     "Descripcion": "Ingeniera Industial con énfasis en métodos cuantitatios y logística.",
     "Publico": "CONTACTO",
     "foto": "/img/sara.jpg"
@@ -338,7 +395,12 @@
     "Nickname": "Sebastián",
     "Contacto": 573128816750,
     "Ubicacion": "",
-    "Temas": ["Desarrollo web,", " Tecnología,", " Música,", " Fotografía"],
+    "Temas": [
+      "Desarrollo web,",
+      " Tecnología,",
+      " Música,",
+      " Fotografía"
+    ],
     "Descripcion": "Trabajo con la web desde hace 10 años.",
     "Publico": "CONTACTO",
     "foto": ""
@@ -348,7 +410,11 @@
     "Nickname": "Álvaro",
     "Contacto": 573102489302,
     "Ubicacion": "Usaquén, Bogotá",
-    "Temas": ["Lectura,", " Gastronomía,", " Ejercicio físico"],
+    "Temas": [
+      "Lectura,",
+      " Gastronomía,",
+      " Ejercicio físico"
+    ],
     "Descripcion": "Ingeniero de petróleos, con más de 30 años de experiencia en la industria, en perforación y completamiento de pozos.  Especializado en desarrollo de negocios.",
     "Publico": "CONTACTO",
     "foto": "/img/alvaro.jpg"
@@ -358,7 +424,11 @@
     "Nickname": "Maicol",
     "Contacto": 573197852892,
     "Ubicacion": "Bogotá, Colombia",
-    "Temas": ["Cuidado animal,", " Creación de sitios web,", " Fundaciones"],
+    "Temas": [
+      "Cuidado animal,",
+      " Creación de sitios web,",
+      " Fundaciones"
+    ],
     "Descripcion": "Diseño web.  Especialidad  HTML, Boostrap y base de datos SQL.",
     "Publico": "CONTACTO",
     "foto": "/img/maicol.jpg"
@@ -421,7 +491,11 @@
     "Nickname": "Sofía",
     "Contacto": 573154142720,
     "Ubicacion": "El Poblado, Medellín",
-    "Temas": [" Psicología,", " Neuropsicología,", " Adulto mayor,"],
+    "Temas": [
+      " Psicología,",
+      " Neuropsicología,",
+      " Adulto mayor,"
+    ],
     "Descripcion": "Psicóloga egresada de la Universidad CES, con énfasis al adulto mayor y experiencia en rehabilitación neuropsicológica",
     "Publico": "CONTACTO",
     "foto": "/img/sofia.jpg"
@@ -441,35 +515,65 @@
     "foto": "/img/gianna.jpg"
   },
   {
-    "id": 1,
-    "Nickname": "Sebastian",
+    "id": 36,
+    "Nickname": "Paola",
+    "Contacto": 573203748687,
+    "Ubicacion": "Suba, Bogotá",
+    "Temas": [
+      "  Fotografía,",
+      "  Naturaleza,",
+      "  Aprendizaje,",
+      "  Importaciones y exportaciones"
+    ],
+    "Descripcion": "Estudiante, tecnólogo en negociación internacional, con conocimientos en procesos de exportación e importación, ofrezco asesorías para temas relacionados.",
+    "Publico": "ASISTENTE",
+    "foto": "/img/paola.jpg"
+  },
+  {
+    "id": 37,
+    "Nickname": "Daniel",
+    "Contacto": 573203748687,
+    "Ubicacion": "Suba, Bogotá",
+    "Temas": [
+      "  Tecnología,",
+      "  Edición de audio y sonido,",
+      "  Senderismo"
+    ],
+    "Descripcion": "Soy músico pianista profesional egresado del Conservatorio de música de la Universidad Nacional de Colombia y maestro en Gestión Cultural y Creativa de la Universidad Sergio Arboleda. Me he desempeñado como intérprete de piano para eventos y conciertos en formato agrupaciones y pianista acompañante; también como docente de piano en escuelas de formación artística de carácter público en Cundinamarca, en escuelas privadas de música en Bogotá y como profesor de clases particulares de piano. En el sector cultural he realizado procesos de seguimiento pedagógico para políticas públicas en Bogotá y emprendimiento de proyectos de creatividad musical. ",
+    "Publico": "ASISTENTE",
+    "foto": "/img/daniel.jpg"
+  },    
+  {
+    "id": 38,
+    "Nickname": "Sebastián",
     "Contacto": 573209735385,
-    "Ubicacion": "Soacha, Bogota",
+    "Ubicacion": "Soacha, Bogotá",
     "Temas": [
       "Soy financiero,",
-      " consultor en mercados,",
-      " consultor de finanzas personales,",
-      " finanzas en general,",
-      " estrategia e investigación"
+      " Consultor en mercados,",
+      " Consultor de finanzas personales,",
+      " Finanzas en general,",
+      " Estrategia e investigación"
     ],
     "Descripcion": "Soy financiero interesado en aprender de derecho, de tecnología, psicología, historia y baile en el corto plazo",
     "Publico": "CONTACTO",
     "foto": "/img/11-sebastian.jpeg"
   },
   {
-    "id": 1,
+    "id": 39,
     "Nickname": "Walter",
     "Contacto": 573225877335,
-    "Ubicacion": "Fontibon, Bogota",
+    "Ubicacion": "Fontibón, Bogotá",
     "Temas": [
-      " Psicologo,",
-      " estadística,",
-      " inversión en mercados,",
-      " trader,",
-      " inversiones"
+      " Psicólogo,",
+      " Estadística,",
+      " Inversión en mercados,",
+      " Trader,",
+      " Inversiones"
     ],
-    "Descripcion": "Soy psicologo y me interesa aprender sobre desarrollo web.",
+    "Descripcion": "Soy Psicólogo y me interesa aprender sobre desarrollo web.",
     "Publico": "CONTACTO",
     "foto": "/img/12-walter.jpeg"
   }
 ]
+
