@@ -32,7 +32,9 @@ const Contact = ({ contacto }) => {
         </div>
       </div>
       <ul className="row_skills">
-        {contacto.Temas}
+        {contacto.Temas.map((tema) => (
+          <li>{tema}</li>
+        ))}
       </ul>
 
       <div className="row_tooltip">
@@ -48,7 +50,9 @@ const Contact = ({ contacto }) => {
           target="_blank"
           rel="noreferrer"
         >
-          <button className="button-contacto" type="button">{contacto.Publico}</button>
+          <button className="button-contacto" type="button">
+            {contacto.Publico}
+          </button>
         </a>
       </div>
     </div>
@@ -56,11 +60,15 @@ const Contact = ({ contacto }) => {
 };
 
 function validateContactFields(contact, media) {
-  contact.foto = (contact.foto == null || contact.foto === "") ?
-      constants.IMAGE_CONTACTOS_PRO : contact.foto;
+  contact.foto =
+    contact.foto == null || contact.foto === ""
+      ? constants.IMAGE_CONTACTOS_PRO
+      : contact.foto;
 
-  contact.Contacto = (contact.Contacto == null || contact.Contacto === "") ?
-      constants.ADVISER_CONTACTOS_PRO : contact.Contacto;
+  contact.Contacto =
+    contact.Contacto == null || contact.Contacto === ""
+      ? constants.ADVISER_CONTACTOS_PRO
+      : contact.Contacto;
 }
 
 export default Contact;
