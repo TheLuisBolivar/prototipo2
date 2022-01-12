@@ -48,7 +48,7 @@ body {
   flex-direction: column;
   justify-content: space-between;
   margin-top: 30px;
-  overflow: hidden;
+  /* overflow: hidden; */
 }
 
 h3 {
@@ -133,10 +133,8 @@ img.icon {
   font-size: 13px;
   position: absolute;
   z-index: 1;
-  width: 200px;
-  top: 100%;
-  left: 50%;
-  margin-left: -100px;
+  left: 0;
+  transform: translateY(-50%);
 }
 
 .row_tooltip:hover .tooltiptext {
@@ -145,7 +143,7 @@ img.icon {
 
 #overflow {
   padding: 15px;
-  overflow-y: scroll;
+  /* overflow-y: scroll; */
   border: 1px solid #ccc;
 }
 
